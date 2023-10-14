@@ -1,0 +1,17 @@
+{
+  "name": "local-network",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "local-ip": "^2.0.0",
+    "node-arp": "^1.0.6",
+    "ping": "^0.4.4"
+  }
+}
